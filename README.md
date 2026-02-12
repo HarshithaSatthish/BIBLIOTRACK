@@ -21,7 +21,6 @@ This project demonstrates a complete web service with backend logic, frontend te
 ✔ Static assets like book covers  
 ✔ Admin controls for inventory management
 
-*(Add more feature descriptions as needed)*
 
 ---
 
@@ -36,31 +35,37 @@ This project uses the following technologies:
 - Frontend assets in `static/css`
 - Python dependency management via `requirements.txt`
 
-*(Tailor this section with exact versions and frameworks after inspection)*
-
----
 
 ## 🗂 Project Structure
 ├── accounts/ # User accounts and authentication
+
 ├── bibliotrack/ # Core application logic
+
 ├── books/ # Book models, views & templates
+
 ├── orders/ # Order management
+
 ├── recommendations/ # Recommendation engine code
+
 ├── chat/ # Chat support views
+
 ├── chatbot/ # Chatbot & AI integration
+
 ├── static/ # CSS / JS / assets
+
 ├── templates/ # HTML view templates
+
 ├── media/book_covers # Stored book images
+
 ├── manage.py # Django project runner
+
 ├── db.sqlite3 # Local database (development)
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project readme (this file)
+
 └── TODO*.md # Planned improvements
-
-
-*(Customize with real info after reviewing files locally)*
-
----
 
 ## 🚀 Installation
 
