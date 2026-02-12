@@ -13,13 +13,14 @@ This project demonstrates a complete web service with backend logic, frontend te
 
 ## ⭐ Features
 
-✔ User registration & login  
-✔ Book catalog browsing  
-✔ Order creation & tracking  
-✔ Recommendation engine  
-✔ Chat and chatbot features  
-✔ Static assets like book covers  
-✔ Admin controls for inventory management
+User registration & login  
+Book catalog browsing
+Visual Search
+Order creation & tracking  
+Recommendation engine  
+Chat and chatbot features  
+Static assets like book covers  
+Admin controls for inventory management
 
 
 ---
